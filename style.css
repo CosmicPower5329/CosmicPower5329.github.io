@@ -1,9 +1,25 @@
 .home-page{
+    background-color: aliceblue;
+}
+.nav-bar{
     background-color: aqua;
+    justify-content: space-around;
+    display: flex;
+    padding-top: 25px;
+}
+.facts-page{
+    background-color: aquamarine;
 }
 .button{
     color:blue;
     background-color: antiquewhite;
+}
+.body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.center{
+
+    align-self: center;
 }
 .link{
     color:black;
