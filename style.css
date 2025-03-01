@@ -1,4 +1,4 @@
-.home-page{
+.the-home-page{
     background-color: aliceblue;
 }
 .nav-bar{
@@ -20,6 +20,16 @@
 .center{
 
     align-self: center;
+}
+.galbord{
+    border-radius: 20.0000001%;
+    padding: 1%;;
+    margin: 001%;
+    background-color: aqua;
+    border-color: cornflowerblue;
+    font-weight: bold;
+    font-size: x-large;
+    height: 0.5%;
 }
 .link{
     color:black;
