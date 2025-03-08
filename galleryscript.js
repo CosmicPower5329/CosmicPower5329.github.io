@@ -6,4 +6,4 @@ const imageGallery = [
 const imageElement = document.getElementById("GalleryImage");
 const prevButton = document.getElementById("PrevBut");
 const nextButton = document.getElementById("NextBut")
-let currentImgIndex = 0
+let currentImgIndex = 0;
